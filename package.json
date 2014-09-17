@@ -3,7 +3,7 @@
   "description": "Simple promise wrapper for http.request and https.request.",
   "author": "Jamie Mason, siunmaru@gmail.com, @fold_left",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "http://github.com/JamieMason/q-request.git"
