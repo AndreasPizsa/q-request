@@ -1,0 +1,25 @@
+{
+  "name": "q-request",
+  "description": "Simple promise wrapper for http.request and https.request.",
+  "author": "Jamie Mason, siunmaru@gmail.com, @fold_left",
+  "main": "index.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/JamieMason/q-request.git"
+  },
+  "bugs": {
+    "url": "http://github.com/JamieMason/q-request/issues"
+  },
+  "tags": [
+    "http",
+    "https",
+    "promise",
+    "request",
+    "util",
+    "utility"
+  ],
+  "dependencies": {
+    "q": "0.9.3"
+  }
+}
