@@ -20,6 +20,6 @@
     "utility"
   ],
   "dependencies": {
-    "q": "0.9.3"
+    "q": "1.5.1"
   }
 }
