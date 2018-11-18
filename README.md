@@ -1,6 +1,8 @@
 q-request
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/q-request.svg)](https://greenkeeper.io/)
+
 Simple promise wrapper for http.request and https.request.
 
 ## Installation
